@@ -3,7 +3,7 @@
 *Making USB mapping simple(r)*
 
 The USBToolBox tool is a USB mapping tool supporting Windows and macOS. It allows for building a custom injector kext from Windows and macOS.
-
+  
 ## Features
 
 * Supports mapping from Windows and macOS
